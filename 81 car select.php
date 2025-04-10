@@ -41,7 +41,7 @@ if (isset($_POST['submit'])) {
     $favoriteCar = $_POST['car'];
     echo "<div class='result'>Your favorite car is $favoriteCar</div>";
 }
-
+echo "Program by Pravar, (PRN:2220100239)"; 
 ?>
 
 </body>
