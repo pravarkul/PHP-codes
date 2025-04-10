@@ -25,5 +25,5 @@
     
     $conn->close();
 echo "<br>";
-echo "Program by Arnav Kharbanda, 2220100249";
+echo "Program by Pravar, (PRN:2220100239)"; 
 ?>
