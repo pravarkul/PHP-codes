@@ -27,6 +27,6 @@
                <td>6</td>
           </tr>
      </table>
-Program by Arnav Kharbanda,2220100249
+echo "Program by Pravar, (PRN:2220100239)"; 
 </body>
 </html>
