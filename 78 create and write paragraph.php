@@ -1,7 +1,7 @@
 <?php
 
 $file = "about_me.txt";
-$paragraph = "Hello, I am ARNAV KHARBANDA, I am a student of BVIMR. I'm currently in BCA 3rd year ";
+$paragraph = "Hello, I am Pravar, I am a student of BVIMR. I'm currently in BCA 3rd year ";
 
 
 $file_handle = fopen($file, 'w');
